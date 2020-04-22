@@ -1,3 +1,5 @@
+![Ground Hogs at work](/assets/img/earthy-thing.png)
+
 # ground-hogs.github.io
 
 ## License
